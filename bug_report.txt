@@ -1,0 +1,18 @@
+ID: 
+Enviroment: 
+Title: 
+Project:
+Build: 
+Severity:
+Priority: 
+Status:
+Submitted by:
+Assigned to: 
+Conditions:
+STR:
+    1. 
+    2. 
+    3. 
+Expected result:
+Actual result:
+Attachments:  
